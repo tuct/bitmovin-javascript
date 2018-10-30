@@ -30,7 +30,7 @@
 // 3.4. Add a video adaptation set. One video adaptation set is typically enough for the most use cases. It gives the
 //      player the opportunity to switch between various qualities inside that adaptation set.
 // 3.5. Add an audio fmp4 representation to the previously created audio adaptation set.
-// 3.6. Add multiple video fmp4 representations th the previously created video adaptation set. The number of the video
+// 3.6. Add multiple video fmp4 representations to the previously created video adaptation set. The number of the video
 //      representations can be derived from the number of the created video streams with different codec configurations.
 // 3.7. Start the manifest creation.
 
